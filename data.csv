@@ -1,0 +1,9 @@
+Gender,Age,Salary,City
+Male,25,50000,New York
+Female,30,,Paris
+Female,,60000,Tokyo
+Male,45,80000,New York
+Female,22,45000,Paris
+Male,,72000,Tokyo
+Male,35,65000,New York
+Female,28,,Paris
